@@ -117,16 +117,19 @@ This area graph shows the total number of active cases of covid-19 from the time
 This area graph shows the total number of recovered cases of covid-19 from the time cases were recorded for USA.
  ![Picture18](https://user-images.githubusercontent.com/80939593/134901803-38d7e95e-440b-4fa5-aeb0-7214787d8d0c.jpg)
 
-
 This is a line chart that shows the gradual increase in Covid-19 cases for all the countries selected in the select bar.
+![Picture19](https://user-images.githubusercontent.com/80939593/134902735-d1452edd-7700-4742-bc2b-9c3f7012a0a5.jpg)
+
 
 # Correlation Tab
 # Heatmap
- 
+ ![Picture20](https://user-images.githubusercontent.com/80939593/134902826-ab26359e-9045-4f8b-9a93-2ea223583ead.jpg)
+
 This is a heatmap showing the correlation between covid-19 cases and weather factors. Red color (-1) shows strong negative correlation and Blue color (+1) shows strong positive correlation. From the colors in the heatmap we can say that new cases and temperature negative correlation and specific humidity and relative humidity shows positive correlation and for wind speed it shows weak negative correlation.
 
 # Correlation Matrix
- 
+ ![Picture21](https://user-images.githubusercontent.com/80939593/134902947-1fe659d0-4492-4bab-801f-04ca8fd47a6e.jpg)
+
 In this table we can see that the correlation coefficient of new cases and temperature is -0.82 at 0.01 level of significance and correlation coefficient for specific humidity and relative humidity with new cases are 0.81 and 0.80 respectively at 0.01 level of significance and the correlation between new cases and windspeed is 0.031. From the below correlation values we can say that the temperature and covid-19 cases have strong negative correlation whereas specific humidity and relative humidity have strong positive correlation with covid-19 cases. Wind speed shows no correlation at all.
 The histogram shows how the data is distributed. The red line does not form a bell shaped curve which indicates that our data doesn’t follow normal distribution except wind speed.
 From the scatter plot we can observe that the regression line goes from top left to bottom right for new cases vs temperature, which shows negative correlation. For both specific humidity and relative humidity with new cases the line goes from bottom left to top right which indicates positive correlation. For windspeed vs new cases, it is a horizontal line therefore shows no correlation.
