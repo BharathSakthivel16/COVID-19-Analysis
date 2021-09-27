@@ -1,0 +1,26 @@
+{
+    "id": "652B7670",
+    "path": "F:/BDA/My_Projects/R-Shiny/COVID-19_Analysis/app_main.R",
+    "project_path": "app_main.R",
+    "type": "r_source",
+    "hash": "560769090",
+    "contents": "",
+    "dirty": true,
+    "created": 1618320991357.0,
+    "source_on_save": false,
+    "relative_order": 1,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "5,16",
+        "scrollLine": "0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1618322677,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1618324017072,
+    "read_only": false,
+    "read_only_alternatives": []
+}

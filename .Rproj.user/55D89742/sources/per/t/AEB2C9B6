@@ -1,0 +1,24 @@
+{
+    "id": "AEB2C9B6",
+    "path": "F:/BDA/My_Projects/R-Shiny/COVID-19_Analysis/DownloadingFiles.R",
+    "project_path": "DownloadingFiles.R",
+    "type": "r_source",
+    "hash": "2798538747",
+    "contents": "",
+    "dirty": false,
+    "created": 1618951263242.0,
+    "source_on_save": false,
+    "relative_order": 3,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1606667302,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1606667302,
+    "read_only": false,
+    "read_only_alternatives": []
+}
