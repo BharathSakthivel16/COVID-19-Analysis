@@ -66,6 +66,7 @@ This tab consists of value boxes that shows the total confirmed, recovered, dece
 # Data Table
 This tab consists of a Data table which summarizes all our datasets and shows us the most important columns that we took into consideration for our analysis and visualization. The Data Table consists of 15 columns and 190 rows.
 This table also consists of a search bar through which you can type the name of a particular country and filter out the data for that country.
+
  ![Picture8](https://user-images.githubusercontent.com/80939593/134899061-759e54cf-bc58-4853-9301-eb19a8f89313.jpg)
 
 
